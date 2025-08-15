@@ -1,6 +1,6 @@
 # Impact of Label Noise on Logistic Regression vs Perceptron
 
-This project studies how increasing label noise affects two classic machine learning models: **Logistic Regression** and **Perceptron**.  
+Analysing how increasing label noise affects two classic machine learning models: **Logistic Regression** and **Perceptron**.  
 Using a synthetic binary dataset, labels are randomly flipped to simulate noise, and model accuracy is evaluated under different noise levels.
 
 ---
