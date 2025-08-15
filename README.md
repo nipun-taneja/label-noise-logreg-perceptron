@@ -53,7 +53,7 @@ You can run this project entirely in **Google Colab**:
 2. Save a copy to your Drive (**File → Save a copy in Drive**).  
 3. Run all cells in order; dependencies are pre-installed (`scikit-learn`, `numpy`, `matplotlib`).  
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<nipun-taneja>/<repo-name>/blob/main/label_noise_logreg_perceptron.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nipun-taneja/label-noise-logreg-perceptron.ipynb/blob/main/label_noise_logreg_perceptron.ipynb)
 
 ---
 
